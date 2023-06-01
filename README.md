@@ -1,6 +1,6 @@
 # Assurance-Maladie
 The Assurance Maladie application is a full-stack application developed using HTML, CSS, JavaScript, and Bootstrap for the front-end, while PHP is used for the back-end. This application manages insured individuals and their bulletins.
-CAPTURES:
+SCREENSHOTS:
 ![assu1](https://github.com/Farah-frija/Assurance-Maladie/assets/103389967/6f957c8c-0269-42f6-965d-f21c4bcc8ad9)
 ![assu7](https://github.com/Farah-frija/Assurance-Maladie/assets/103389967/6525336d-b0d9-4276-95aa-8b79836f55f5)
 ![assu8](https://github.com/Farah-frija/Assurance-Maladie/assets/103389967/6a3d1b8c-0d92-424a-9fab-721f74a33c46)
